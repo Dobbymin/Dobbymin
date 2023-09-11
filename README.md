@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=250&section=header&text=dobbymin&fontSize=90)
 
 ## Hello 👋🏻 I'm dobbymin
-웹 프론트엔드 개발자를 꿈꾸고 있습니다.
+웹 프론트엔드 개발자를 꿈꾸고 있습니다. <br>
 React와 Python을 주로 공부하고 있습니다.
 
 ## My Language
