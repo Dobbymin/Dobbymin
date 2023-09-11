@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=yellow&height=250&section=header&text=dobbymin&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=250&section=header&text=dobbymin&fontSize=90)
 
 <div align="center">
 
