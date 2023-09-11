@@ -23,7 +23,7 @@ React와 Python을 주로 공부하고 있습니다.
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
     
-## 🔥 열심히 성장하고 있습니다 🔥
+## 🛠 Tech Stack 🛠
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dobbymin06)](https://solved.ac/dobbymin06/)
 
