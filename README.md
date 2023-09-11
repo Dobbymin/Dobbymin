@@ -5,6 +5,7 @@
 - React와 Python을 주로 공부하고 있습니다.
 
 ## My Language
+
 ### Studying
 <div align="center">
 
@@ -22,8 +23,6 @@
 </div>
     
 ## 🔥 열심히 성장하고 있습니다 🔥
-
-
 <div>
     [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dobbymin06)](https://solved.ac/dobbymin06/)
 </div>
