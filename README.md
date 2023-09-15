@@ -2,12 +2,12 @@
     
 ![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=250&section=header&text=dobbymin&fontSize=90)
 
-## ❤️About me❤️
-신소재공학 전공자이며, 전자공학을 복수전공하고 있습니다.
+## 🍀 Who am I ? 🍀
+신소재공학 전공자이며, 전자공학을 복수전공하고 있습니다. <br>
 웹 프론트엔드 개발자를 꿈꾸고 있습니다. <br>
 React와 Python을 주로 공부하고 있습니다.
 
-## Activity experience 🤹‍♀️
+## 🤹‍♀️ Activity experience 🤹‍♀️
 
 | 활동날짜 | 활동 | 활동내용 |
 |:------:|:---:|:-----:|
@@ -17,7 +17,7 @@ React와 Python을 주로 공부하고 있습니다.
 | 2023.06 ~ 07 | 네이버 BoostCourse 코칭스터디 | Let's AI 2023 수료
 | 2022.01 | 코뮤니티 파이썬 심화 | 크롤링편 수료
 
-## My Language
+## 🛠 Tech Stack 🛠
 
 ### Studying
 
@@ -43,7 +43,7 @@ React와 Python을 주로 공부하고 있습니다.
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
     
-## 🛠 Tech Stack 🛠
+## 🛠 About Me 🛠
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dobbymin06)](https://solved.ac/dobbymin06/)
 
