@@ -3,8 +3,16 @@
 ![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=250&section=header&text=dobbymin&fontSize=90)
 
 ## ❤️About me❤️
+신소재공학 전공자이며, 전자공학을 복수전공하고 있습니다.
 웹 프론트엔드 개발자를 꿈꾸고 있습니다. <br>
 React와 Python을 주로 공부하고 있습니다.
+
+## Activity experience 🤹‍♀️
+- [2023.09 ~ 현재] GDSC KNU 3기 FrontEnd
+- [2023.03 ~ 현재] 경북대학교 IT대학 학술동아리 해달 | 리액트 스터디 | 교육운영진(파이썬)
+- [2023.07 ~ 08] 네이버 BoostCourse 코칭스터디 : Python 4 Everybody 수료
+- [2023.06 ~ 07] 네이버 BoostCourse 코칭스터디 : Let's AI 2023 수료
+- [2022.01] 코뮤니티 파이썬 심화 : 크롤링편 수료
 
 ## My Language
 
@@ -16,7 +24,6 @@ React와 Python을 주로 공부하고 있습니다.
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
-
 <br>
 <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
@@ -27,7 +34,6 @@ React와 Python을 주로 공부하고 있습니다.
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white/">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
 ### Tools
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
