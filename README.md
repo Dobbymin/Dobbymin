@@ -45,12 +45,11 @@ React와 Python을 주로 공부하고 있습니다.
     
 ## 🛠 About Me 🛠
 
+<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dobbymin06)](https://solved.ac/dobbymin06/)
-<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dobbymin&show_icons=true&theme=dracula)
-<br>
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDobbymin%2F&count_bg=%233DB7C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 </div>
