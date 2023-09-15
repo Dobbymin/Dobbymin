@@ -45,7 +45,6 @@ React와 Python을 주로 공부하고 있습니다.
     
 ## 🛠 About Me 🛠
 
-<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dobbymin06)](https://solved.ac/dobbymin06/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dobbymin&layout=compact&theme=tokyonight)
 <br>
