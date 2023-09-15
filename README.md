@@ -47,6 +47,8 @@ React와 Python을 주로 공부하고 있습니다.
 
 <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dobbymin06)](https://solved.ac/dobbymin06/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dobbymin&layout=compact&theme=tokyonight)
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dobbymin&show_icons=true&theme=dracula)
 <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDobbymin%2F&count_bg=%233DB7C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
