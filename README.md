@@ -42,8 +42,10 @@ React와 Python을 주로 공부하고 있습니다.
 ### Tools
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-    
-## 🛠 About Me 🛠
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
+
+## ✨ About Me ✨
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dobbymin06)](https://solved.ac/dobbymin06/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dobbymin&layout=compact&theme=tokyonight)
