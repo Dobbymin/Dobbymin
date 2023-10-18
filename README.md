@@ -11,10 +11,10 @@ React와 Python을 주로 공부하고 있습니다.
 
 | 활동날짜 | 활동 | 활동내용 |
 |:------:|:---:|:-----:|
-| 2023.09 ~ 현재 | GDSC KNU 3기 FrontEnd |
+| 2023.09 ~ 현재 | GDSC KNU 3기 FrontEnd | FE 2팀
 | 2023.03 ~ 현재 | 경북대학교 IT대학 학술동아리 해달 | 리액트 스터디 , 교육운영진(파이썬)
-| 2023.07 ~ 08 | 네이버 BoostCourse 코칭스터디 | Python 4 Everybody 수료
-| 2023.06 ~ 07 | 네이버 BoostCourse 코칭스터디 | Let's AI 2023 수료
+| 2023.07 ~ 08 | 네이버 BoostCourse 코칭스터디 12기| Python 4 Everybody 수료
+| 2023.06 ~ 07 | 네이버 BoostCourse 코칭스터디 11기 | Let's AI 2023 수료
 | 2022.01 | 코뮤니티 파이썬 심화 | 크롤링편 수료
 
 ## 🛠 Tech Stack 🛠
