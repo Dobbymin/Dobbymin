@@ -5,7 +5,7 @@
 ## 🍀 Who am I ? 🍀
 신소재공학 전공자이며, 전자공학을 복수전공하고 있습니다. <br>
 웹 프론트엔드 개발자를 꿈꾸고 있습니다. <br>
-React와 Python을 주로 공부하고 있습니다.
+React를 주로 공부하고 있습니다.
 
 ## 🤹‍♀️ Activity experience 🤹‍♀️
 
@@ -27,6 +27,10 @@ React와 Python을 주로 공부하고 있습니다.
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
 <br>
+<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=TailWindCSS&logoColor=white"/>
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+
+<br>
 <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
@@ -36,7 +40,6 @@ React와 Python을 주로 공부하고 있습니다.
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white/">
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 
 
 ### Tools
