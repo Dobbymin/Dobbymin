@@ -5,6 +5,7 @@ React를 주로 공부하고 있습니다.
 
 ## 🤹‍♀️ Activity experience 🤹‍♀️
 ### 2023
+- GDSC 영남권 연합 아이디어톤 - 다함께 솔챌톤 : 우수상
 - GDSC KNU 3기 FE (2023 ~ ing)
 - 경북대학교 IT대학 학술동아리 해달 (2023 ~ ing)
 - 해달 growth 해커톤 : 최우수상, 아이디어상
