@@ -19,6 +19,7 @@ React를 주로 공부하고 있습니다.
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
 <br>
+<img src="https://img.shields.io/badge/styled-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=TailWindCSS&logoColor=white"/>
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 
