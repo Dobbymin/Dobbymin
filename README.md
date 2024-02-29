@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=gradient&height=150&section=header&text=Hi%20there!&fontSize=70" />
 
 ## 🍀 Who am I ? 🍀
 웹 프론트엔드 개발자를 꿈꾸고 있습니다. <br>
