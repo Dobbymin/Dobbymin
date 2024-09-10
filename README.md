@@ -12,6 +12,8 @@ React와 TypeScript를 주로 공부하고 있습니다.
 - 해달 growth 해커톤 : 최우수상, 아이디어상 🏅
 
 ### 2024
+- 해달XGDSCX멋쟁이사자처럼X앱동XGETIT 연합 GLOW 해커톤
+- 카카오 테크 캠퍼스 2nd 아이디어톤
 - 카카오 테크 캠퍼스 KNU 2기 : Frontend
 - GDSC KNU 4기 FE Core (2024 ~ ing)
 
