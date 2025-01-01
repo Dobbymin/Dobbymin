@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=150&section=header&text=Hi%20there!&fontSize=70&fontColor=1f2329" />
+# 강민 Dobbymin
+ <a href="https://velog.io/@dobby_min"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@dobby_min"/></a> [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=dobbymin)](https://www.linkedin.com/in/dobbymin/)
 
-## 🍀 Who am I ? 🍀
 웹 프론트엔드 개발자를 꿈꾸고 있습니다. <br>
 React와 TypeScript를 주로 공부하고 있습니다.
 
