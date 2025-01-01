@@ -13,12 +13,13 @@ React와 TypeScript를 주로 공부하고 있습니다.
 
 ### 2024
 - 해달XGDSCX멋쟁이사자처럼X앱동XGETIT 연합 GLOW 해커톤
-- 카카오 테크 캠퍼스 2nd 아이디어톤
-- 카카오 테크 캠퍼스 KNU 2기 : Frontend
-- GDSC KNU 4기 FE Core (2024 ~ ing)
+- 카카오 테크 캠퍼스 2nd : Frontend 수료
+- GDG on Campus KNU 4기 Frontend Core (2024 ~ ing)
+- IT대학 전자공학부 SEEK Square 2024 : 우수상 🏅
 
 ## 🛠 Tech Stack 🛠
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/ChakraUI-319795?style=flat-square&logo=ChakraUI&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=PWA&logoColor=white"/> 
+
 
 ## ✨ About Me ✨
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dobbymin&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dobbymin&layout=compact&theme=tokyonight)
